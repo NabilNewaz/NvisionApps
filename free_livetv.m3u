@@ -29,50 +29,50 @@ http://live.flixhub.net/hls/Sony_Aath.m3u8
 #EXTINF: -1 tvg-logo="http://live.flixhub.net/img/sunbangla.jpg" group-title="Indian Bangla", Sun Bangla
 http://live.flixhub.net/hls/sunbangla.m3u8
 
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/starplus.jpg" group-title="Bangladeshi", Star Plus
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/starplus.jpg" group-title="Hindi", Star Plus
 http://live.flixhub.net/hls/starplus.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/sonyen.png" group-title="Bangladeshi", Sony TV
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/sonyen.png" group-title="Hindi", Sony TV
 http://live.flixhub.net/hls/sonyen.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/sonymax.png" group-title="Bangladeshi", Sony Max
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/sonymax.png" group-title="Hindi", Sony Max
 http://live.flixhub.net/hls/sonymax.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/sony-maxhd.jpg" group-title="Bangladeshi", Sony Max HD
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/sony-maxhd.jpg" group-title="Hindi", Sony Max HD
 http://live.flixhub.net/hls/sony-maxhd.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/zeetv.png" group-title="Bangladeshi", Zee TV
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/zeetv.png" group-title="Hindi", Zee TV
 http://live.flixhub.net/hls/zeetv.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/zeecinemahd.jpg" group-title="Bangladeshi", Zee Cinema HD
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/zeecinemahd.jpg" group-title="Hindi", Zee Cinema HD
 http://live.flixhub.net/hls/zeecinemahd.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/colors-tv-hd.jpg" group-title="Bangladeshi", Colors TV
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/colors-tv-hd.jpg" group-title="Hindi", Colors TV
 http://live.flixhub.net/hls/colore-tv-hd.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/colorscineplex.jpg" group-title="Bangladeshi", Color Cineplex
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/colorscineplex.jpg" group-title="Hindi", Color Cineplex
 http://live.flixhub.net/hls/colorscineplex.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/stargold.jpg" group-title="Bangladeshi", Star Gold
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/stargold.jpg" group-title="Hindi", Star Gold
 http://live.flixhub.net/hls/stargold.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/stargold2hd.png" group-title="Bangladeshi", Star Gold 2 HD
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/stargold2hd.png" group-title="Hindi", Star Gold 2 HD
 http://live.flixhub.net/hls/stargold2hd.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/utvaction.jpg" group-title="Bangladeshi", UTV Action
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/utvaction.jpg" group-title="Hindi", UTV Action
 http://live.flixhub.net/hls/utvaction.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/andpictures-hd.jpg" group-title="Bangladeshi", And Picture
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/andpictures-hd.jpg" group-title="Hindi", And Picture
 http://live.flixhub.net/hls/andpictures.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/zoom.jpg" group-title="Bangladeshi", Zoom
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/zoom.jpg" group-title="Hindi", Zoom
 http://live.flixhub.net/hls/zoom.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/bindass.jpeg" group-title="Bangladeshi", Bindass
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/bindass.jpeg" group-title="Hindi", Bindass
 http://live.flixhub.net/hls/bindass.m3u8
 
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/dis.png" group-title="Bangladeshi", Discovery
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/dis.png" group-title="Documentary", Discovery
 http://live.flixhub.net/hls/discovery.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/Nat_Geo_HD.png" group-title="Bangladeshi", National Geographic
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/Nat_Geo_HD.png" group-title="Documentary", National Geographic
 http://live.flixhub.net/hls/ngohd.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/animalplanent.jpg" group-title="Bangladeshi", Animal Planent
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/animalplanent.jpg" group-title="Documentary", Animal Planent
 http://live.flixhub.net/hls/animalplanent.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/wild.png" group-title="Bangladeshi", National Wild
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/wild.png" group-title="Documentary", National Wild
 http://live.flixhub.net/hls/wild.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/bbcearth.jpg" group-title="Bangladeshi", Zee TV
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/bbcearth.jpg" group-title="Documentary", Zee TV
 http://live.flixhub.net/hls/bbcearth.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/travelxphd.jpg" group-title="Bangladeshi", Travel XP
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/travelxphd.jpg" group-title="Documentary", Travel XP
 http://live.flixhub.net/hls/travelxp.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/dis-science.png" group-title="Bangladeshi", Discovery Scince
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/dis-science.png" group-title="Documentary", Discovery Scince
 http://live.flixhub.net/hls/dis-science.m3u8
-#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/tlc.jpeg" group-title="Bangladeshi", TLC
+#EXTINF: -1 tvg-logo="http://live.flixhub.net/img/tlc.jpeg" group-title="Documentary", TLC
 http://live.flixhub.net/hls/tlc.m3u8
 
 #EXTINF: -1 tvg-logo="http://live.flixhub.net/img/tsports.jpg" group-title="Sports", Tsports
