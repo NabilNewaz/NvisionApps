@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="Channel I" tvg-id="" group-title="Bangladeshi" tvg-logo="http://live.flixhub.net/img/channeli.jpg"
+#EXTINF:-1 tvg-name="Channel I" tvg-id="" group-title="Bangladeshi" tvg-logo="http://live.flixhub.net/img/channeli.jpg", Channel I
 http://live.flixhub.net/hls/channeli.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" tvg-id="" group-title="Bangladeshi" tvg-logo="http://live.flixhub.net/img/somoytv.jpg"
 http://live.flixhub.net/hls/somoy.m3u8
